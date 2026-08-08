@@ -36,4 +36,4 @@ Industry-leading **4Ukey Suite Premium** collaboration platform with template li
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
